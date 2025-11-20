@@ -371,23 +371,5 @@ For issues, questions, or suggestions:
 - ✅ Web UI with Streamlit
 - ✅ Deployed on Streamlit Cloud
 
-### v1.1 (Planned)
-- 📅 User ratings persistence
-- 📅 Enhanced UI with movie posters
-- 📅 Advanced filtering options
-
-### v2.0 (Future)
-- 🔮 Hybrid collaborative + content-based filtering
-- 🔮 Deep learning embeddings
-- 🔮 Real-time model updates
-- 🔮 Mobile app version
-
----
-
-**Last Updated:** November 20, 2025  
-**Version:** 1.0  
-**Status:** Active & Production-Ready ✅
-
----
 
 *Thank you for using the Movie Recommendation System! Happy watching! 🍿🎬*
