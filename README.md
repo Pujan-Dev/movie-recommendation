@@ -23,11 +23,11 @@ A lightweight, fast, and intelligent movie recommendation engine built with mach
 ### Data Flow
 
 ```
-MovieLens Dataset (9.7M ratings)
+MovieLens Dataset 
         ↓
 [Data Processing]
         ↓
-Movie-Level Features (9,742 movies)
+Movie-Level Features 
         ├─ Binary Genre Vectors (MultiLabelBinarizer)
         ├─ Normalized Popularity Score
         └─ Average Rating Metrics
